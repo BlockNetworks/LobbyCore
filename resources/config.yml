@@ -1,0 +1,10 @@
+Servidor-info: "IP:PORT"
+
+Rangos-info: "RANKS"
+
+Reglas-info: "RULES"
+
+command1: "transferserver 127.0.0.1 19133"
+command2: "transferserver 127.0.0.1 19134"
+command3: "transferserver 127.0.0.1 19135"
+command4: "transferserver 127.0.0.1 19136"
